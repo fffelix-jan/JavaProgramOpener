@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaProgramOpener:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaProgramOpener_jar</output-path>
+    <root id="archive" name="JavaProgramOpener.jar">
+      <element id="module-output" name="JavaProgramOpener" />
+    </root>
+  </artifact>
+</component>
